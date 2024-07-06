@@ -1,0 +1,36 @@
+{
+  "chats": [
+    {
+      "id": "1720305016491",
+      "name": "Friends",
+      "messages": [
+        {
+          "id": "1720299073090",
+          "chatId": "1720305016491",
+          "text": "Hello 👋 ",
+          "timestamp": 1720299073090
+        },
+        {
+          "id": "1720299100362",
+          "chatId": "1720305016491",
+          "text": "How are you?",
+          "timestamp": 1720299100362
+        }
+      ],
+      "createdBy": "admin"
+    },
+    {
+      "id": "1720187980756",
+      "name": "General",
+      "messages": [
+        {
+          "id": "1720299046700",
+          "chatId": "1720187980756",
+          "text": "Our rules",
+          "timestamp": 1720299046700
+        }
+      ],
+      "createdBy": "admin"
+    }
+  ]
+}
