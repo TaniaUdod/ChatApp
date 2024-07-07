@@ -31,6 +31,12 @@
         }
       ],
       "createdBy": "admin"
+    },
+    {
+      "id": "1720370025006",
+      "name": "New Chat",
+      "messages": [],
+      "createdBy": "user1"
     }
   ]
 }
