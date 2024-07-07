@@ -58,7 +58,7 @@ To run the project on a mobile device, use the Expo Go app and scan the QR code 
 
 The built version of the application can be accessed at the following links:
 
-**Android Build**: [Expo Android Project Link](https://expo.dev/accounts/tetiana_udod/projects/chat-app/builds/ae279557-4c9c-4166-9021-fdde3bc5d7ba)
+**Android Build**: [Expo Android Project Link](https://expo.dev/accounts/tetiana_udod/projects/chat-app/builds/49cf6b84-4af3-4500-b244-1d1a08197c07)
 
 ### Testing
 
